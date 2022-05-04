@@ -16,5 +16,4 @@ After cloning this repository to your computer, please take the following steps:
 - Make sure to frequently commit to your GitHub repository while using descriptive commit messages
 - Confirm that the program is producing the expected output
 - Use a `docker run` command for your operating system to run GatorGrader
-- Please be aware that performance profiling in a Docker contain may not work as expected
 - Provide all of the required responses in the `writing/reflection.md` file
