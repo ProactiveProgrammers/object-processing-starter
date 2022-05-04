@@ -6,6 +6,9 @@ import csv
 
 from objectprocessor import person
 
+# TODO: Make sure to review the entire CSV file that is input and
+# processed by this program
+
 # Sample of the data set:
 
 # Mrs. Natalie Lee,Bolivia,036-126-0340x0094,"Engineer, building services",david82@example.org
