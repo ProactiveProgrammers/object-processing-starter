@@ -29,7 +29,7 @@ TODO: Make sure that you use proper Markdown syntax to provide the command and i
 
 TODO: Provide a description of each line in the following source code
 
-```
+```python
 person_index = create_constants(
     "person", Name=0, Country=1, Phone_Number=2, Job=3, Email=4
 )
@@ -39,7 +39,7 @@ person_index = create_constants(
 
 TODO: Provide a description of each line in the following source code
 
-```
+```python
 person_attribute = create_constants(
     "person",
     Name="name",
@@ -54,7 +54,7 @@ person_attribute = create_constants(
 
 TODO: Provide a description of each line in the following source code
 
-```
+```python
 def __init__(
     self, name: str, country: str, phone_number: str, job: str, email: str
 ) -> None:
@@ -70,7 +70,7 @@ def __init__(
 
 TODO: Provide a description of each line in the following source code
 
-```
+```python
 def __repr__(self) -> str:
     """Return a textual representation of the person."""
       return f"{self.name} is a {self.job} who lives in {self.country}. You can call this person at {self.phone_number} and email them {self.email}."
