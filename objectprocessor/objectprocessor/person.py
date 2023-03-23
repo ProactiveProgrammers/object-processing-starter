@@ -5,6 +5,8 @@ import itertools
 
 from typing import List
 
+# TODO: implement all of the required source code for the Person class
+
 
 def create_constants(name, *args, **kwargs):
     """Create a namedtuple of constants."""
