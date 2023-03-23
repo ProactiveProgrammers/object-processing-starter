@@ -6,6 +6,7 @@ import itertools
 from typing import List
 
 # TODO: implement all of the required source code for the Person class
+# TODO: refer to the course slides on the course web site for more details!
 
 
 def create_constants(name, *args, **kwargs):
